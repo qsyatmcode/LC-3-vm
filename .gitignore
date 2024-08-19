@@ -1,0 +1,5 @@
+# Visual Studio 2022 cache/options directory
+.vs/
+
+# Cmake out directory
+out/
